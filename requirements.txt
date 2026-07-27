@@ -1,0 +1,13 @@
+langchain_community
+langchain
+langgraph
+langchain-google-genai
+chromadb
+plotly
+pandas
+pymupdf
+python-dotenv
+ddgs
+google-generativeai
+google-genai
+Pillow

@@ -1,0 +1,9 @@
+{
+  "name": "research-agent",
+  "version": "1.0.0",
+  "description": "TamilNadu Research Agent platform mapping to Streamlit run",
+  "scripts": {
+    "dev": "venv\\Scripts\\streamlit run app.py"
+  },
+  "dependencies": {}
+}

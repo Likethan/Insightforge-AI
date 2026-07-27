@@ -1,0 +1,12 @@
+[tool.pyright]
+include = ["src", "app.py"]
+venvPath = "."
+venv = "venv"
+pythonVersion = "3.11"
+typeCheckingMode = "basic"
+reportMissingImports = "none"
+reportMissingModuleSource = "none"
+
+[tool.pylance]
+python.analysis.extraPaths = ["src", "."]
+python.analysis.useLibraryCodeForTypes = true
